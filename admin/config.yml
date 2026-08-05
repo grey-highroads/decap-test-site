@@ -3,6 +3,7 @@ backend:
   repo: grey-highroads/decap-test-site
   branch: main
   base_url: https://decap-test-site.pages.dev
+  auth_endpoint: api/auth
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
