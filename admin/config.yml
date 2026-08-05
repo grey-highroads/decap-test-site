@@ -2,6 +2,7 @@ backend:
   name: github
   repo: grey-highroads/decap-test-site
   branch: main
+  base_url: https://decap-test-site.pages.dev
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
