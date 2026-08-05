@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: YOUR_USERNAME/decap-test-site
+  repo: grey-highroads/decap-test-site
   branch: main
 
 media_folder: "images/uploads"
