@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Decap Test</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>My Test Site</h1>
+
+  <p id="headline">
+    This text will eventually come from Decap.
+  </p>
+
+</body>
+</html>
