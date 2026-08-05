@@ -1,0 +1,23 @@
+backend:
+  name: github
+  repo: YOUR_USERNAME/decap-test-site
+  branch: main
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "Homepage"
+        name: "homepage"
+        file: "content/homepage.yml"
+        fields:
+          - label: "Headline"
+            name: "headline"
+            widget: "string"
+
+          - label: "Button Link"
+            name: "button_link"
+            widget: "string"
